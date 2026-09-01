@@ -2,6 +2,17 @@
 
 ## MC 
 
+> [!IMPORTANT]
+> Provide your answers by editing `quiz-answers.txt` as follows:
+> ```txt
+> 1,2
+> 4
+> 3,4
+> ```
+> I recommend editing in a new window, so you can see quiz at the same time.
+
+Good luck! 🤞
+
 1. A condition block has usually how many flowlines going out of it?
 
    1. One, representing the next step.
@@ -47,6 +58,15 @@
 ---
 
 ## Draw flowcharts:
+
+> [!IMPORTANT]
+> Upload files as:
+> ```
+> flowchart1.svg
+> flowchart2.svg
+> flowchart3.svg
+> ```
+> You can also use other image formats.
 
 1. You are preparing tea. Use no decisions.
 
